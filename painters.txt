@@ -1,0 +1,16 @@
+"The Gorgon Painter" "The Gorgon Vase"   -
+"Sophilos"      - "Sophilos Dinos"
+"Kleitias"      - "Francois Vase"
+"The Amasis Painter" "Test"               -
+"Euphronios" "Amazons"    -
+"Phintias" "Test"    -
+"The Berlin Painter" "Achilles and Hector"
+"The Kleophrades Painter" "Fall of Troy"       -
+"The Niobid Painter" "Niobids"           -
+"The Orpheus Painter" "Orpheus"           -
+"The Chicago Painter"      - "Polyneikes and Eriphyle"
+"The Lycaon Painter" "Elpenor"           -
+"The Pan Painter" "Medusa"          -
+"The Meidias Painter"     -"Dioskouroi and Herakles"
+"Exekias"       - "Dionysus on a boat"
+"Euthymides"       -"Three men carousing"
